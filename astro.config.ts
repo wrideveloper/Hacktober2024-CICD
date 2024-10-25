@@ -6,11 +6,11 @@ export default defineConfig({
   // used to generate images
   site:
     process.env.VERCEL_ENV === 'production'
-      ? 'https://FlaBBB.github.io/'
+      ? 'https://wrideveloper.github.io/'
       : process.env.VERCEL_URL
       ? `https://${process.env.VERCEL_URL}/`
       : 'https://localhost:3000/',
-  base: 'SCnPRnCICD',
+  base: 'Hacktober2024-CICD',
   trailingSlash: 'ignore',
   integrations: [sitemap(), UnoCSS({ injectReset: true })],
   vite: {
