@@ -6,7 +6,7 @@ tags:
   - Hacktoberfest'24  
   - Collaboration
   - CICD
-imgUrl: '../../assets/farhan.png'
+imgUrl: '../../assets/farhan.jpg'
 description: Profile of Muhammad Farhan
 layout: '../../layouts/BlogPost.astro'
 ---
