@@ -7,7 +7,7 @@ tags:
   - Hacktoberfest'24  
   - Collaboration
   - CICD
-imgUrl: '../../assets/maxresdefault.jpg'
+imgUrl: '../../assets/maxresdefault-6.jpg'
 description: Profile of Mokhammad Ilham Putra Wijaya
 layout: '../../layouts/BlogPost.astro'
 ---
