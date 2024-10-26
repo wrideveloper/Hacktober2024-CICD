@@ -6,7 +6,7 @@ tags:
   - Hacktoberfest'24  
   - Collaboration
   - CICD
-imgUrl: '../../assets/src/assets/patrick-star-meditates-657cafc2de948f3cf910f742.jpeg'
+imgUrl: '../../assets/patrick-star-meditates-657cafc2de948f3cf910f742.jpeg'
 description: Profile of Muhammad Fattahul Alim
 layout: '../../layouts/BlogPost.astro'
 ---
