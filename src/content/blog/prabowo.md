@@ -6,7 +6,7 @@ tags:
   - Hacktoberfest'24  
   - Collaboration
   - CICD
-imgUrl: '../../assets/parb.jpg'
+imgUrl: '../../assets/prabowo.jpg'
 description: Profile of Prabowo Subianto
 layout: '../../layouts/BlogPost.astro'
 ---
