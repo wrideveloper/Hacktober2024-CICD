@@ -1,13 +1,13 @@
 ---
 title: Profile of Muhammad Fattahul Alim
-author: "Fikri Muhammad Abdillah"
+author: "Muhammad Fattahul Alim"
 pubDate: 10/25/2024 08:58
 tags:
   - Hacktoberfest'24  
   - Collaboration
   - CICD
 imgUrl: '../../assets/src/assets/patrick-star-meditates-657cafc2de948f3cf910f742.jpeg'
-description: Profile of Fikri Muhammad Abdillah
+description: Profile of Muhammad Fattahul Alim
 layout: '../../layouts/BlogPost.astro'
 ---
 
