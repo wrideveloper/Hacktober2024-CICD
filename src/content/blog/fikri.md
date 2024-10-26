@@ -13,7 +13,7 @@ layout: '../../layouts/BlogPost.astro'
 
 ## Profile
 
-Fikri Muhammad Abdillah, from Jl. Maju Mundur, Bumiayu, Malang, a wanderer in the world of technology, has found his place among lines of code, late-night debugging sessions, and endless cups of black coffee. Fikri wears many hats: a tech enthusiast, an active open-source contributor, and a big dreamer set on innovation. Behind his calm smile is a fiery spirit, especially during Hacktoberfest. For him, Hacktoberfest '24 is a unique year—a time to make as many contributions as possible in the online collaboration space and spread the passion for CI/CD.
+Fikri Muhammad Abdillah, from Jl. Menuju Kebenaran, Bumiayu, Malang, a wanderer in the world of technology, has found his place among lines of code, late-night debugging sessions, and endless cups of black coffee. Fikri wears many hats: a tech enthusiast, an active open-source contributor, and a big dreamer set on innovation. Behind his calm smile is a fiery spirit, especially during Hacktoberfest. For him, Hacktoberfest '24 is a unique year—a time to make as many contributions as possible in the online collaboration space and spread the passion for CI/CD.
 
 Behind the scenes, Fikri is a loyal CI/CD advocate, dreaming of a world where each commit is part of a harmonious symphony of perfect releases. Collaboration is his native language—he believes that building something together brings far more satisfaction than working alone. To him, CI/CD isn’t just technology; it’s an art form involving team synchronization, continuous improvement, and infinite patience.
 
