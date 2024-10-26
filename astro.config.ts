@@ -10,7 +10,7 @@ export default defineConfig({
       : process.env.VERCEL_URL
       ? `https://${process.env.VERCEL_URL}/`
       : 'https://localhost:3000/',
-  base: 'Hacktober2024-CICD',
+      base: process.env.VERCEL_ENV === 'production' ? '/Hacktober2024-CICD/' : '/',
   trailingSlash: 'ignore',
   integrations: [sitemap(), UnoCSS({ injectReset: true })],
   vite: {
