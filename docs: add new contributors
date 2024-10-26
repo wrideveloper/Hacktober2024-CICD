@@ -8,4 +8,9 @@ CI/CD adalah singkatan dari Continuous Integration dan Continuous Deployment. CI
 
 # 🤝 Contributors
 
-- [Fikri Muhammad Abdillah](https://github.com/FlaBBB)
+- [@FlaBBB](@FlaBBB)
+- [@Farhan-L4h](https://github.com/Farhan-L4h)
+- [@FattahulAlim](https://github.com/FattahulAlim)
+- [@Mokhamm-Ilham](https://github.com/Mokhamm-Ilham)
+- [@G4CENeiz](https://github.com/G4CENeiz)
+- [@Dzaky-Hadyan](https://github.com/Dzaky-Hadyan)
